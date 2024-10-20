@@ -11,7 +11,7 @@ import SwiftUI
 struct Books_ExplorerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
